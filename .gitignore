@@ -1,5 +1,7 @@
 # Modules
 /node_modules
+.config.*
+.deploy-commands.js
 
 # variables
 .env
