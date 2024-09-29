@@ -1,0 +1,31 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "A simple discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/who-icyy/Discord-Bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "server",
+    "backend"
+  ],
+  "author": "who-icyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/who-icyy/Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/who-icyy/Discord-Bot#readme",
+  "devDependencies": {
+    "eslint": "^9.11.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
