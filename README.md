@@ -34,9 +34,9 @@ cd Discord-Bot
 
 ```
 
-## config.json
+# config.json
 
-# Edit this files with credintials
+## Edit this files with credintials
 ```bash
 {
 	"token": "your-token-goes-here",
@@ -44,6 +44,8 @@ cd Discord-Bot
 	"guildId": "your-server-id-goes-here"
 }
 ```
+
+# Execute
 
 ```bash
 node deplay-commands.js
