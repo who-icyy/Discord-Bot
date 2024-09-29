@@ -1,5 +1,5 @@
 {
-	"token": "MTI4OTkxMjA1OTI5NDY0NjM0NQ.GVaqBt.UrbkF5PuGQng3zrd5WNBuEk9pgQy3c33_nPYW0",
-	"clientId": "1289912059294646345",
-	"guildId": "1289913624537858208"
+	"token": "your-token-goes-here",
+	"clientId": "your-application-id-goes-here",
+	"guildId": "your-server-id-goes-here"
 }
